@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lucas_ramallo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucas_ramallo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joão lucas ramalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão lucas ramalho" height="30" width="40" /></a>
+<a href="https://twitter.com/lucas_ramllho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucas_ramallo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-ramalho-2484b8238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joão lucas ramalho" height="30" width="40" /></a>
 <a href="https://instagram.com/lucas_3uu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucas_3uu" height="30" width="40" /></a>
 </p>
 
