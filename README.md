@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm João Lucas</h1>
 <h3 align="center">A programming student</h3>
 
-- 🌱 I’m currently learning **Node.Js and React**
+I started programming 3 years ago, and I'm currently improving my knowledge of NodeJS and ReactJS.
 
-- 📫 How to reach me **lucasramalho.dev@gmail.com**
+How to reach me **lucasramalho.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
