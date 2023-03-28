@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm João Lucas</h1>
 <h3 align="center">A programming student</h3>
 
-I started programming 3 years ago, and I'm currently improving my knowledge of NodeJS and ReactJS.
+I started programming 3 years ago, and I'm currently improving my knowledge.
 
 How to reach me **lucasramalho.dev@gmail.com**
 
