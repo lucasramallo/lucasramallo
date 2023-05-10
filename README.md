@@ -4,7 +4,6 @@
 
 I started programming 3 years ago, and I'm currently studying Systems Analysis and Development at IFPB.
 
-How to reach me **lucasramalho.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <div align="center"> 
