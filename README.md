@@ -5,7 +5,7 @@ I started programming 3 years ago, and I'm currently studying Systems Analysis a
 
 
 <h3 align="left">Connect with me:</h3>
-<div align="center"> 
+<div align="left"> 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-ramalho-2484b8238/" target="_blank"><img src="https://user-images.githubusercontent.com/122987929/213333787-9a57e6be-58d8-482c-92bd-5677031d02ae.jpg" width="40px"></a>
   <a href = "mailto:lucasramalho.dev@gmail.com"><img src="https://user-images.githubusercontent.com/122987929/213333721-63294d35-6371-49d8-b335-096f9c2754d8.JPG" width="40px"></a>
   <a href="https://api.whatsapp.com/send?phone=5583988501228"><img src="https://user-images.githubusercontent.com/122987929/213334174-ff06ef33-8141-4ebe-b41d-919d89231659.JPG" width="40px"></a> 
