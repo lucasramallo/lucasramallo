@@ -1,7 +1,7 @@
 ## 
 <h1 align="center">Hi 👋, I'm João Lucas</h1>
 
-I'm currently studying Systems Analysis and Development at IFPB.
+A student of Systems Analysis and Development.
 
 
 <h3 align="left">Connect with me:</h3>
