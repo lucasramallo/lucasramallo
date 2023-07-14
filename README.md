@@ -1,8 +1,5 @@
 ## 
-<h1 align="center">Hi 👋, I'm João Lucas</h1>
-
-A student of Systems Analysis and Development.
-
+<h1 align="center">Hi 👋, I'm João Lucas</h1
 
 <h3 align="left">Connect with me:</h3>
 <div align="left"> 
