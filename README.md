@@ -11,6 +11,6 @@
 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasramallo&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 
-  [![My Skills](https://skillicons.dev/icons?i=java,react,spring,nodejs,elixir,figma&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,elixir,react,figma&theme=dark)](https://skillicons.dev)
 </div>
 
