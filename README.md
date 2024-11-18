@@ -13,6 +13,4 @@
   <h3 align="left">Stack:</h3>
   
   [![My Skills](https://skillicons.dev/icons?i=java,spring,react,postgres,mongodb,docker,gitlab&theme=dark)](https://skillicons.dev)
-
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasramallo&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div>
