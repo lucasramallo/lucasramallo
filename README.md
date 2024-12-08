@@ -12,5 +12,7 @@
 
   <h3 align="left">Stack:</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,react,postgres,mongodb,docker,gitlab&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,react,postgres&theme=dark)](https://skillicons.dev)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=oracle)
+  [![My Skills](https://skillicons.dev/icons?i=mongodb,docker,gitlab&theme=dark)](https://skillicons.dev)
 </div>
