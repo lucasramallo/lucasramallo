@@ -9,8 +9,6 @@
 
   
 </div>
-
-  <h3 align="left">Stack:</h3>
   
   [![My Skills](https://skillicons.dev/icons?i=java,spring&theme=dark)](https://skillicons.dev)
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=oracle,plsql)
