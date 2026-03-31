@@ -9,7 +9,6 @@
   
 </div>
   
-  [![My Skills](https://skillicons.dev/icons?i=java,spring&theme=dark)](https://skillicons.dev)
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=oracle,plsql)
-  [![My Skills](https://skillicons.dev/icons?i=react,mongodb,docker,gitlab&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,postgres,redis,docker&theme=dark)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rabbitmq)
 </div>
