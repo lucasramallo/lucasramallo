@@ -9,6 +9,6 @@
   
 </div>
   
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,postgres,redis,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,nodejs,nextjs,postgres,redis,docker&theme=dark)](https://skillicons.dev)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rabbitmq)
 </div>
